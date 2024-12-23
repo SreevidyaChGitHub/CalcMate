@@ -6,12 +6,12 @@ This project combines a standard calculator and a currency converter into one co
 1. <b>Standard Calculator:</b> Perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Notifies the user about invalid expressions when entered</br>
 2. <b>Currency Converter:</b>Convert between various currencies with up-to-date exchange rates.</br>
 3. <b>Mode Selection:</b>Easily switch between the standard calculator and currency converter using a dropdown menu.</br>
-4. <b>User-Friendly Interface:</b> Simple and intuitive design for a smooth user experience.</br></br>
+4. <b>User-Friendly Interface:</b> Simple and intuitive design for a smooth user experience.</br>
 
 <h2>User Interface</h2>
 
 **Standard Calculator Mode**
-![Screenshot](https://github.com/SreevidyaChGitHub/CalcMate/blob/main/images/StandardCalculator.png)
+![Screenshot](https://github.com/SreevidyaChGitHub/CalcMate/blob/main/images/StandardCalculator.png)</br>
 
 **Currency Converter Mode**
 ![Screenshot](https://github.com/SreevidyaChGitHub/CalcMate/blob/main/images/CurrencyConverter.png)
