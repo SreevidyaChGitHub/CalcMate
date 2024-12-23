@@ -1,0 +1,27 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  background-color: dimgrey;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.dispComp {
+  max-width: 500px;
+  border-radius: 5px;
+  border: 2px solid black;
+  height: 480px;
+}
+
+.modePanel {
+  height: 30px;
+  margin-bottom: 20px;
+  background-color: lightsteelblue;
+}

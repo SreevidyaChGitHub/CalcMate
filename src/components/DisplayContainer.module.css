@@ -1,0 +1,33 @@
+.displayContainer {
+  width: 100%;
+  display: flex; /* Enable flexbox */
+  flex-direction: column; /* Arrange children vertically */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
+}
+
+.inputLine {
+  width: 100%;
+  height: 90px;
+  padding: 10px;
+  font-size: 30px;
+  border: lightsteelblue;
+  border-radius: 5px;
+  background: azure;
+  text-align: right;
+  overflow-wrap: break-word;
+  margin-bottom: 4px;
+}
+
+.resultLine {
+  width: 100%;
+  height: 50px;
+  padding: 10px;
+  font-size: 30px;
+  border: lightsteelblue;
+  border-radius: 5px;
+  background: azure;
+  text-align: right;
+  overflow-x: auto;
+  overflow-y: hidden;
+}

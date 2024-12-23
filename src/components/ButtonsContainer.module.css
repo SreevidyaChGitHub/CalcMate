@@ -1,0 +1,50 @@
+.buttonsContainer {
+  display: flex;
+  width: 100%;
+}
+
+.Numberbutton,
+.imageButton {
+  flex: 1 1 auto;
+  margin: 5px;
+  font-size: 30px;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  height: 50px;
+  width: 70px;
+}
+
+.leftBtns {
+  width: 80%;
+}
+
+.rightBtns {
+  width: 20%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.numBtns,
+.lastRowBtns {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Numberbutton {
+  background-color: azure;
+}
+
+.imageButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: lightsteelblue;
+}
+
+.imageButton img {
+  height: 40px;
+  max-width: 100%;
+  max-height: 100%;
+}
